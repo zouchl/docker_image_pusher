@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 python:3.10.14-slim
 qwenllm/qwen:2-cu121
+mysql/mysql-server
+eosphorosai/dbgpt:latest
