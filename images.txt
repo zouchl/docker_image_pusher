@@ -7,5 +7,7 @@
 #python:3.10.14-slim
 #qwenllm/qwen:2-cu121
 #db-gpt
-mysql/mysql-server
-eosphorosai/dbgpt:latest
+#mysql/mysql-server
+#eosphorosai/dbgpt:latest
+#db-gpt tugraph
+tugraph/tugraph-runtime-centos7
