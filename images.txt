@@ -10,4 +10,5 @@
 #mysql/mysql-server
 #eosphorosai/dbgpt:latest
 #db-gpt tugraph
-tugraph/tugraph-runtime-centos7
+#tugraph/tugraph-runtime-centos7
+node:lts-slim
