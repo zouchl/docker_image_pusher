@@ -11,4 +11,5 @@
 #eosphorosai/dbgpt:latest
 #db-gpt tugraph
 #tugraph/tugraph-runtime-centos7
-node:lts-slim
+#node:lts-slim
+ollama/ollama
