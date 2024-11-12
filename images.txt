@@ -7,10 +7,10 @@
 #python:3.10.14-slim
 #qwenllm/qwen:2-cu121
 #db-gpt
-#mysql/mysql-server
-#eosphorosai/dbgpt:latest
+mysql/mysql-server
+eosphorosai/dbgpt:latest
 #db-gpt tugraph
-#tugraph/tugraph-runtime-centos7
+tugraph/tugraph-runtime-centos7
 #node:lts-slim
 #ollama/ollama
 
@@ -41,4 +41,4 @@
 # downloads.unstructured.io/unstructured-io/unstructured-api:latest
 # # dify <<<
 
-vllm/vllm-openai:latest
+# vllm/vllm-openai:latest
