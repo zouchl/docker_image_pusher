@@ -42,3 +42,6 @@ tugraph/tugraph-runtime-centos7
 # # dify <<<
 
 # vllm/vllm-openai:latest
+
+# wechat-gpt
+zhayujie/chatgpt-on-wechat
