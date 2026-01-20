@@ -45,3 +45,6 @@
 
 # wechat-gpt
 zhayujie/chatgpt-on-wechat
+
+# jdk8
+--platform=linux/amd64 openjdk:8
